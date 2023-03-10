@@ -4,26 +4,25 @@
       "id": 1,
       "titolo": "Primo titolo",
       "url": "https://github.com/albertandreski/testchiamate-http/new/main",
-      "like ": 976,
-     
+      "like ": 976
     },
     {
       "id": 2,
       "titolo": "Secondo titolo",
       "url": "https://github.com/albertandreski/testchiamate-http/new/main",
-      "like": 588,    
+      "like": 588
     },
     {
       "id": 3,
       "titolo": "Terzo titolo",
       "url": "https://github.com/albertandreski/testchiamate-http/new/main",
-      "like": 328,   
+      "like": 328
     },
     {
       "id": 4,
       "titolo": "Quarto titolo",
       "url": "https://github.com/albertandreski/testchiamate-http/new/main",
-      "like": 679,  
+      "like": 679
     }
   ]
 }
